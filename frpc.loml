@@ -1,6 +1,6 @@
 [common]
 protocol = tcp
-server_addr = nat.tenacioustommy.rocks
+server_addr = 138.2.86.110
 server_port = 7000
 
 [ssh]
